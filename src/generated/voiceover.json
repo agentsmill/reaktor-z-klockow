@@ -1,0 +1,1570 @@
+{
+ "voice": "Brian",
+ "scenes": {
+  "intro": {
+   "file": "audio/vo/intro.mp3",
+   "durationMs": 6583,
+   "words": [
+    {
+     "text": "Mały",
+     "startMs": 35,
+     "endMs": 337
+    },
+    {
+     "text": "reaktor",
+     "startMs": 395,
+     "endMs": 836
+    },
+    {
+     "text": "jądrowy,",
+     "startMs": 882,
+     "endMs": 1358
+    },
+    {
+     "text": "który",
+     "startMs": 1393,
+     "endMs": 1625
+    },
+    {
+     "text": "może",
+     "startMs": 1672,
+     "endMs": 1881
+    },
+    {
+     "text": "zasilić",
+     "startMs": 1927,
+     "endMs": 2415
+    },
+    {
+     "text": "setki",
+     "startMs": 2508,
+     "endMs": 2821
+    },
+    {
+     "text": "tysięcy",
+     "startMs": 2868,
+     "endMs": 3251
+    },
+    {
+     "text": "domów.",
+     "startMs": 3297,
+     "endMs": 3738
+    },
+    {
+     "text": "Jak",
+     "startMs": 4098,
+     "endMs": 4272
+    },
+    {
+     "text": "to",
+     "startMs": 4319,
+     "endMs": 4389
+    },
+    {
+     "text": "działa?",
+     "startMs": 4412,
+     "endMs": 4772
+    },
+    {
+     "text": "Zbudujmy",
+     "startMs": 4911,
+     "endMs": 5433
+    },
+    {
+     "text": "go",
+     "startMs": 5480,
+     "endMs": 5550
+    },
+    {
+     "text": "z",
+     "startMs": 5573,
+     "endMs": 5596
+    },
+    {
+     "text": "klocków!",
+     "startMs": 5642,
+     "endMs": 6188
+    }
+   ]
+  },
+  "smr": {
+   "file": "audio/vo/smr.mp3",
+   "durationMs": 10031,
+   "words": [
+    {
+     "text": "Es-em-er",
+     "startMs": 23,
+     "endMs": 801
+    },
+    {
+     "text": "to",
+     "startMs": 917,
+     "endMs": 1022
+    },
+    {
+     "text": "mały",
+     "startMs": 1091,
+     "endMs": 1358
+    },
+    {
+     "text": "reaktor",
+     "startMs": 1416,
+     "endMs": 1811
+    },
+    {
+     "text": "modułowy:",
+     "startMs": 1869,
+     "endMs": 2543
+    },
+    {
+     "text": "kilka",
+     "startMs": 2775,
+     "endMs": 3100
+    },
+    {
+     "text": "razy",
+     "startMs": 3135,
+     "endMs": 3355
+    },
+    {
+     "text": "mniejszy",
+     "startMs": 3390,
+     "endMs": 3820
+    },
+    {
+     "text": "od",
+     "startMs": 3866,
+     "endMs": 3936
+    },
+    {
+     "text": "dużego",
+     "startMs": 3994,
+     "endMs": 4354
+    },
+    {
+     "text": "bloku",
+     "startMs": 4389,
+     "endMs": 4644
+    },
+    {
+     "text": "jądrowego",
+     "startMs": 4690,
+     "endMs": 5317
+    },
+    {
+     "text": "i",
+     "startMs": 5584,
+     "endMs": 5700
+    },
+    {
+     "text": "budowany",
+     "startMs": 5759,
+     "endMs": 6293
+    },
+    {
+     "text": "z",
+     "startMs": 6327,
+     "endMs": 6351
+    },
+    {
+     "text": "gotowych",
+     "startMs": 6432,
+     "endMs": 6885
+    },
+    {
+     "text": "modułów",
+     "startMs": 6954,
+     "endMs": 7314
+    },
+    {
+     "text": "z",
+     "startMs": 7361,
+     "endMs": 7384
+    },
+    {
+     "text": "fabryki",
+     "startMs": 7442,
+     "endMs": 7953
+    },
+    {
+     "text": "--",
+     "startMs": 8115,
+     "endMs": 8220
+    },
+    {
+     "text": "trochę",
+     "startMs": 8417,
+     "endMs": 8742
+    },
+    {
+     "text": "jak",
+     "startMs": 8766,
+     "endMs": 8870
+    },
+    {
+     "text": "z",
+     "startMs": 8905,
+     "endMs": 8928
+    },
+    {
+     "text": "klocków.",
+     "startMs": 8986,
+     "endMs": 9590
+    }
+   ]
+  },
+  "poland": {
+   "file": "audio/vo/poland.mp3",
+   "durationMs": 19357,
+   "words": [
+    {
+     "text": "W",
+     "startMs": 46,
+     "endMs": 116
+    },
+    {
+     "text": "Polsce",
+     "startMs": 197,
+     "endMs": 557
+    },
+    {
+     "text": "takie",
+     "startMs": 615,
+     "endMs": 848
+    },
+    {
+     "text": "reaktory",
+     "startMs": 917,
+     "endMs": 1428
+    },
+    {
+     "text": "chce",
+     "startMs": 1451,
+     "endMs": 1683
+    },
+    {
+     "text": "budować",
+     "startMs": 1741,
+     "endMs": 2159
+    },
+    {
+     "text": "firma",
+     "startMs": 2229,
+     "endMs": 2635
+    },
+    {
+     "text": "Michała",
+     "startMs": 2752,
+     "endMs": 3228
+    },
+    {
+     "text": "Sołowowa",
+     "startMs": 3309,
+     "endMs": 3959
+    },
+    {
+     "text": "--",
+     "startMs": 4122,
+     "endMs": 4342
+    },
+    {
+     "text": "część",
+     "startMs": 4505,
+     "endMs": 4807
+    },
+    {
+     "text": "z",
+     "startMs": 4853,
+     "endMs": 4876
+    },
+    {
+     "text": "nich",
+     "startMs": 4969,
+     "endMs": 5190
+    },
+    {
+     "text": "wspólnie",
+     "startMs": 5224,
+     "endMs": 5677
+    },
+    {
+     "text": "z",
+     "startMs": 5724,
+     "endMs": 5747
+    },
+    {
+     "text": "Orlenem.",
+     "startMs": 5817,
+     "endMs": 6374
+    },
+    {
+     "text": "Wybrano",
+     "startMs": 6861,
+     "endMs": 7279
+    },
+    {
+     "text": "technologię",
+     "startMs": 7326,
+     "endMs": 8046
+    },
+    {
+     "text": "be-wu-er-iks-trzysta",
+     "startMs": 8208,
+     "endMs": 9810
+    },
+    {
+     "text": "o",
+     "startMs": 10124,
+     "endMs": 10240
+    },
+    {
+     "text": "mocy",
+     "startMs": 10310,
+     "endMs": 10658
+    },
+    {
+     "text": "trzystu",
+     "startMs": 10716,
+     "endMs": 11099
+    },
+    {
+     "text": "megawatów.",
+     "startMs": 11157,
+     "endMs": 11854
+    },
+    {
+     "text": "Projekt",
+     "startMs": 12341,
+     "endMs": 12794
+    },
+    {
+     "text": "wsparli",
+     "startMs": 12817,
+     "endMs": 13317
+    },
+    {
+     "text": "też",
+     "startMs": 13363,
+     "endMs": 13502
+    },
+    {
+     "text": "polscy",
+     "startMs": 13572,
+     "endMs": 13897
+    },
+    {
+     "text": "przedsiębiorcy:",
+     "startMs": 13932,
+     "endMs": 14838
+    },
+    {
+     "text": "zainwestują",
+     "startMs": 15256,
+     "endMs": 16033
+    },
+    {
+     "text": "w",
+     "startMs": 16080,
+     "endMs": 16103
+    },
+    {
+     "text": "firmę",
+     "startMs": 16126,
+     "endMs": 16451
+    },
+    {
+     "text": "Sołowowa",
+     "startMs": 16509,
+     "endMs": 17136
+    },
+    {
+     "text": "około",
+     "startMs": 17218,
+     "endMs": 17578
+    },
+    {
+     "text": "pół",
+     "startMs": 17636,
+     "endMs": 17810
+    },
+    {
+     "text": "miliarda",
+     "startMs": 17856,
+     "endMs": 18355
+    },
+    {
+     "text": "złotych.",
+     "startMs": 18402,
+     "endMs": 18901
+    }
+   ]
+  },
+  "fission": {
+   "file": "audio/vo/fission.mp3",
+   "durationMs": 19357,
+   "words": [
+    {
+     "text": "Paliwem",
+     "startMs": 35,
+     "endMs": 464
+    },
+    {
+     "text": "są",
+     "startMs": 534,
+     "endMs": 697
+    },
+    {
+     "text": "małe",
+     "startMs": 766,
+     "endMs": 998
+    },
+    {
+     "text": "pastylki",
+     "startMs": 1045,
+     "endMs": 1509
+    },
+    {
+     "text": "uranu.",
+     "startMs": 1556,
+     "endMs": 2090
+    },
+    {
+     "text": "Gdy",
+     "startMs": 2403,
+     "endMs": 2589
+    },
+    {
+     "text": "neutron",
+     "startMs": 2659,
+     "endMs": 3100
+    },
+    {
+     "text": "trafi",
+     "startMs": 3158,
+     "endMs": 3529
+    },
+    {
+     "text": "w",
+     "startMs": 3587,
+     "endMs": 3611
+    },
+    {
+     "text": "jądro",
+     "startMs": 3669,
+     "endMs": 3982
+    },
+    {
+     "text": "uranu,",
+     "startMs": 4005,
+     "endMs": 4609
+    },
+    {
+     "text": "jądro",
+     "startMs": 4841,
+     "endMs": 5178
+    },
+    {
+     "text": "rozpada",
+     "startMs": 5213,
+     "endMs": 5631
+    },
+    {
+     "text": "się",
+     "startMs": 5677,
+     "endMs": 5770
+    },
+    {
+     "text": "na",
+     "startMs": 5817,
+     "endMs": 5886
+    },
+    {
+     "text": "dwa",
+     "startMs": 5921,
+     "endMs": 6084
+    },
+    {
+     "text": "mniejsze",
+     "startMs": 6130,
+     "endMs": 6594
+    },
+    {
+     "text": "--",
+     "startMs": 6711,
+     "endMs": 6803
+    },
+    {
+     "text": "to",
+     "startMs": 6943,
+     "endMs": 7047
+    },
+    {
+     "text": "rozszczepienie.",
+     "startMs": 7105,
+     "endMs": 7941
+    },
+    {
+     "text": "Uwalnia",
+     "startMs": 8359,
+     "endMs": 8824
+    },
+    {
+     "text": "się",
+     "startMs": 8882,
+     "endMs": 8986
+    },
+    {
+     "text": "mnóstwo",
+     "startMs": 9044,
+     "endMs": 9439
+    },
+    {
+     "text": "ciepła",
+     "startMs": 9485,
+     "endMs": 9938
+    },
+    {
+     "text": "i",
+     "startMs": 10054,
+     "endMs": 10136
+    },
+    {
+     "text": "dwa,",
+     "startMs": 10194,
+     "endMs": 10635
+    },
+    {
+     "text": "trzy",
+     "startMs": 10716,
+     "endMs": 10983
+    },
+    {
+     "text": "nowe",
+     "startMs": 11018,
+     "endMs": 11215
+    },
+    {
+     "text": "neutrony,",
+     "startMs": 11262,
+     "endMs": 11981
+    },
+    {
+     "text": "które",
+     "startMs": 12144,
+     "endMs": 12411
+    },
+    {
+     "text": "rozbijają",
+     "startMs": 12457,
+     "endMs": 13003
+    },
+    {
+     "text": "kolejne",
+     "startMs": 13061,
+     "endMs": 13386
+    },
+    {
+     "text": "jądra.",
+     "startMs": 13421,
+     "endMs": 13920
+    },
+    {
+     "text": "To",
+     "startMs": 14234,
+     "endMs": 14385
+    },
+    {
+     "text": "reakcja",
+     "startMs": 14443,
+     "endMs": 14930
+    },
+    {
+     "text": "łańcuchowa.",
+     "startMs": 14977,
+     "endMs": 15743
+    },
+    {
+     "text": "Jedna",
+     "startMs": 16010,
+     "endMs": 16300
+    },
+    {
+     "text": "pastylka",
+     "startMs": 16358,
+     "endMs": 16869
+    },
+    {
+     "text": "daje",
+     "startMs": 16927,
+     "endMs": 17159
+    },
+    {
+     "text": "tyle",
+     "startMs": 17217,
+     "endMs": 17473
+    },
+    {
+     "text": "energii,",
+     "startMs": 17519,
+     "endMs": 17995
+    },
+    {
+     "text": "co",
+     "startMs": 18018,
+     "endMs": 18123
+    },
+    {
+     "text": "tona",
+     "startMs": 18181,
+     "endMs": 18390
+    },
+    {
+     "text": "węgla.",
+     "startMs": 18436,
+     "endMs": 18970
+    }
+   ]
+  },
+  "control": {
+   "file": "audio/vo/control.mp3",
+   "durationMs": 10109,
+   "words": [
+    {
+     "text": "Nadmiar",
+     "startMs": 35,
+     "endMs": 418
+    },
+    {
+     "text": "neutronów",
+     "startMs": 488,
+     "endMs": 1022
+    },
+    {
+     "text": "pochłaniają",
+     "startMs": 1080,
+     "endMs": 1660
+    },
+    {
+     "text": "pręty",
+     "startMs": 1741,
+     "endMs": 2055
+    },
+    {
+     "text": "sterujące,",
+     "startMs": 2090,
+     "endMs": 2961
+    },
+    {
+     "text": "wsuwane",
+     "startMs": 3123,
+     "endMs": 3657
+    },
+    {
+     "text": "od",
+     "startMs": 3680,
+     "endMs": 3785
+    },
+    {
+     "text": "dołu.",
+     "startMs": 3843,
+     "endMs": 4261
+    },
+    {
+     "text": "Gdy",
+     "startMs": 4679,
+     "endMs": 4853
+    },
+    {
+     "text": "każde",
+     "startMs": 4899,
+     "endMs": 5166
+    },
+    {
+     "text": "rozszczepienie",
+     "startMs": 5213,
+     "endMs": 5898
+    },
+    {
+     "text": "wywołuje",
+     "startMs": 5944,
+     "endMs": 6362
+    },
+    {
+     "text": "dokładnie",
+     "startMs": 6409,
+     "endMs": 6861
+    },
+    {
+     "text": "jedno",
+     "startMs": 6943,
+     "endMs": 7245
+    },
+    {
+     "text": "kolejne,",
+     "startMs": 7303,
+     "endMs": 7918
+    },
+    {
+     "text": "reaktor",
+     "startMs": 8185,
+     "endMs": 8591
+    },
+    {
+     "text": "pracuje",
+     "startMs": 8649,
+     "endMs": 9044
+    },
+    {
+     "text": "stabilnie.",
+     "startMs": 9067,
+     "endMs": 9706
+    }
+   ]
+  },
+  "power": {
+   "file": "audio/vo/power.mp3",
+   "durationMs": 16718,
+   "words": [
+    {
+     "text": "Ciepło",
+     "startMs": 35,
+     "endMs": 476
+    },
+    {
+     "text": "zagotowuje",
+     "startMs": 534,
+     "endMs": 1196
+    },
+    {
+     "text": "wodę",
+     "startMs": 1242,
+     "endMs": 1474
+    },
+    {
+     "text": "wprost",
+     "startMs": 1498,
+     "endMs": 1823
+    },
+    {
+     "text": "w",
+     "startMs": 1858,
+     "endMs": 1881
+    },
+    {
+     "text": "reaktorze",
+     "startMs": 1939,
+     "endMs": 2508
+    },
+    {
+     "text": "--",
+     "startMs": 2670,
+     "endMs": 2728
+    },
+    {
+     "text": "stąd",
+     "startMs": 2995,
+     "endMs": 3297
+    },
+    {
+     "text": "nazwa:",
+     "startMs": 3413,
+     "endMs": 3901
+    },
+    {
+     "text": "reaktor",
+     "startMs": 4063,
+     "endMs": 4586
+    },
+    {
+     "text": "z",
+     "startMs": 4644,
+     "endMs": 4679
+    },
+    {
+     "text": "wrzącą",
+     "startMs": 4725,
+     "endMs": 5143
+    },
+    {
+     "text": "wodą.",
+     "startMs": 5201,
+     "endMs": 5677
+    },
+    {
+     "text": "Para",
+     "startMs": 6095,
+     "endMs": 6374
+    },
+    {
+     "text": "rozkręca",
+     "startMs": 6420,
+     "endMs": 6861
+    },
+    {
+     "text": "turbinę,",
+     "startMs": 6920,
+     "endMs": 7512
+    },
+    {
+     "text": "a",
+     "startMs": 7709,
+     "endMs": 7779
+    },
+    {
+     "text": "turbina",
+     "startMs": 7860,
+     "endMs": 8382
+    },
+    {
+     "text": "napędza",
+     "startMs": 8464,
+     "endMs": 8893
+    },
+    {
+     "text": "generator",
+     "startMs": 8940,
+     "endMs": 9369
+    },
+    {
+     "text": "prądu.",
+     "startMs": 9439,
+     "endMs": 9938
+    },
+    {
+     "text": "Jak",
+     "startMs": 10356,
+     "endMs": 10530
+    },
+    {
+     "text": "para",
+     "startMs": 10600,
+     "endMs": 10797
+    },
+    {
+     "text": "z",
+     "startMs": 10832,
+     "endMs": 10855
+    },
+    {
+     "text": "czajnika,",
+     "startMs": 10913,
+     "endMs": 11389
+    },
+    {
+     "text": "która",
+     "startMs": 11413,
+     "endMs": 11622
+    },
+    {
+     "text": "kręci",
+     "startMs": 11668,
+     "endMs": 11947
+    },
+    {
+     "text": "wiatraczkiem.",
+     "startMs": 11993,
+     "endMs": 12713
+    },
+    {
+     "text": "Potem",
+     "startMs": 13027,
+     "endMs": 13340
+    },
+    {
+     "text": "para",
+     "startMs": 13410,
+     "endMs": 13665
+    },
+    {
+     "text": "skrapla",
+     "startMs": 13712,
+     "endMs": 14176
+    },
+    {
+     "text": "się",
+     "startMs": 14234,
+     "endMs": 14431
+    },
+    {
+     "text": "i",
+     "startMs": 14547,
+     "endMs": 14617
+    },
+    {
+     "text": "wraca",
+     "startMs": 14687,
+     "endMs": 15000
+    },
+    {
+     "text": "do",
+     "startMs": 15047,
+     "endMs": 15116
+    },
+    {
+     "text": "reaktora",
+     "startMs": 15174,
+     "endMs": 15569
+    },
+    {
+     "text": "jako",
+     "startMs": 15604,
+     "endMs": 15801
+    },
+    {
+     "text": "woda.",
+     "startMs": 15836,
+     "endMs": 16219
+    }
+   ]
+  },
+  "circulation": {
+   "file": "audio/vo/circulation.mp3",
+   "durationMs": 13218,
+   "words": [
+    {
+     "text": "Co",
+     "startMs": 46,
+     "endMs": 197
+    },
+    {
+     "text": "ciekawe,",
+     "startMs": 244,
+     "endMs": 882
+    },
+    {
+     "text": "w",
+     "startMs": 929,
+     "endMs": 987
+    },
+    {
+     "text": "środku",
+     "startMs": 1045,
+     "endMs": 1451
+    },
+    {
+     "text": "reaktora",
+     "startMs": 1521,
+     "endMs": 2183
+    },
+    {
+     "text": "woda",
+     "startMs": 2322,
+     "endMs": 2659
+    },
+    {
+     "text": "krąży",
+     "startMs": 2728,
+     "endMs": 3181
+    },
+    {
+     "text": "bez",
+     "startMs": 3239,
+     "endMs": 3413
+    },
+    {
+     "text": "pomp.",
+     "startMs": 3506,
+     "endMs": 3994
+    },
+    {
+     "text": "Gorąca",
+     "startMs": 4481,
+     "endMs": 5074
+    },
+    {
+     "text": "i",
+     "startMs": 5143,
+     "endMs": 5178
+    },
+    {
+     "text": "pełna",
+     "startMs": 5259,
+     "endMs": 5584
+    },
+    {
+     "text": "pary",
+     "startMs": 5654,
+     "endMs": 6002
+    },
+    {
+     "text": "unosi",
+     "startMs": 6072,
+     "endMs": 6490
+    },
+    {
+     "text": "się",
+     "startMs": 6548,
+     "endMs": 6664
+    },
+    {
+     "text": "wysokim",
+     "startMs": 6757,
+     "endMs": 7198
+    },
+    {
+     "text": "kominem,",
+     "startMs": 7279,
+     "endMs": 7906
+    },
+    {
+     "text": "a",
+     "startMs": 8220,
+     "endMs": 8301
+    },
+    {
+     "text": "chłodniejsza",
+     "startMs": 8348,
+     "endMs": 9160
+    },
+    {
+     "text": "opada",
+     "startMs": 9242,
+     "endMs": 9625
+    },
+    {
+     "text": "po",
+     "startMs": 9671,
+     "endMs": 9764
+    },
+    {
+     "text": "bokach",
+     "startMs": 9822,
+     "endMs": 10205
+    },
+    {
+     "text": "--",
+     "startMs": 10321,
+     "endMs": 10681
+    },
+    {
+     "text": "jak",
+     "startMs": 10797,
+     "endMs": 10971
+    },
+    {
+     "text": "powietrze",
+     "startMs": 11053,
+     "endMs": 11540
+    },
+    {
+     "text": "nad",
+     "startMs": 11587,
+     "endMs": 11714
+    },
+    {
+     "text": "kaloryferem.",
+     "startMs": 11773,
+     "endMs": 12585
+    }
+   ]
+  },
+  "safety": {
+   "file": "audio/vo/safety.mp3",
+   "durationMs": 23353,
+   "words": [
+    {
+     "text": "A",
+     "startMs": 35,
+     "endMs": 104
+    },
+    {
+     "text": "co,",
+     "startMs": 197,
+     "endMs": 348
+    },
+    {
+     "text": "jeśli",
+     "startMs": 372,
+     "endMs": 592
+    },
+    {
+     "text": "zabraknie",
+     "startMs": 650,
+     "endMs": 1115
+    },
+    {
+     "text": "prądu?",
+     "startMs": 1161,
+     "endMs": 1730
+    },
+    {
+     "text": "Pręty",
+     "startMs": 2148,
+     "endMs": 2566
+    },
+    {
+     "text": "wsuwają",
+     "startMs": 2601,
+     "endMs": 3181
+    },
+    {
+     "text": "się",
+     "startMs": 3251,
+     "endMs": 3344
+    },
+    {
+     "text": "automatycznie",
+     "startMs": 3402,
+     "endMs": 4133
+    },
+    {
+     "text": "i",
+     "startMs": 4203,
+     "endMs": 4226
+    },
+    {
+     "text": "reakcja",
+     "startMs": 4342,
+     "endMs": 4737
+    },
+    {
+     "text": "gaśnie.",
+     "startMs": 4795,
+     "endMs": 5399
+    },
+    {
+     "text": "Paliwo",
+     "startMs": 5759,
+     "endMs": 6142
+    },
+    {
+     "text": "nadal",
+     "startMs": 6223,
+     "endMs": 6490
+    },
+    {
+     "text": "trochę",
+     "startMs": 6536,
+     "endMs": 6792
+    },
+    {
+     "text": "grzeje,",
+     "startMs": 6850,
+     "endMs": 7488
+    },
+    {
+     "text": "więc",
+     "startMs": 7651,
+     "endMs": 7895
+    },
+    {
+     "text": "ciepło",
+     "startMs": 7964,
+     "endMs": 8336
+    },
+    {
+     "text": "odbierają",
+     "startMs": 8371,
+     "endMs": 8916
+    },
+    {
+     "text": "skraplacze",
+     "startMs": 8963,
+     "endMs": 9497
+    },
+    {
+     "text": "w",
+     "startMs": 9532,
+     "endMs": 9555
+    },
+    {
+     "text": "basenach",
+     "startMs": 9601,
+     "endMs": 10170
+    },
+    {
+     "text": "z",
+     "startMs": 10437,
+     "endMs": 10507
+    },
+    {
+     "text": "wodą",
+     "startMs": 10588,
+     "endMs": 10820
+    },
+    {
+     "text": "nad",
+     "startMs": 10855,
+     "endMs": 10983
+    },
+    {
+     "text": "reaktorem.",
+     "startMs": 11041,
+     "endMs": 11703
+    },
+    {
+     "text": "Para",
+     "startMs": 12283,
+     "endMs": 12527
+    },
+    {
+     "text": "unosi",
+     "startMs": 12597,
+     "endMs": 12933
+    },
+    {
+     "text": "się,",
+     "startMs": 12991,
+     "endMs": 13340
+    },
+    {
+     "text": "skrapla,",
+     "startMs": 13537,
+     "endMs": 14315
+    },
+    {
+     "text": "a",
+     "startMs": 14512,
+     "endMs": 14582
+    },
+    {
+     "text": "woda",
+     "startMs": 14640,
+     "endMs": 14861
+    },
+    {
+     "text": "sama",
+     "startMs": 14919,
+     "endMs": 15186
+    },
+    {
+     "text": "spływa",
+     "startMs": 15221,
+     "endMs": 15511
+    },
+    {
+     "text": "z",
+     "startMs": 15534,
+     "endMs": 15557
+    },
+    {
+     "text": "powrotem.",
+     "startMs": 15615,
+     "endMs": 16207
+    },
+    {
+     "text": "Bez",
+     "startMs": 16521,
+     "endMs": 16707
+    },
+    {
+     "text": "prądu",
+     "startMs": 16776,
+     "endMs": 17125
+    },
+    {
+     "text": "i",
+     "startMs": 17171,
+     "endMs": 17194
+    },
+    {
+     "text": "bez",
+     "startMs": 17252,
+     "endMs": 17403
+    },
+    {
+     "text": "ludzi",
+     "startMs": 17461,
+     "endMs": 17810
+    },
+    {
+     "text": "--",
+     "startMs": 17949,
+     "endMs": 18030
+    },
+    {
+     "text": "przez",
+     "startMs": 18228,
+     "endMs": 18460
+    },
+    {
+     "text": "co",
+     "startMs": 18518,
+     "endMs": 18622
+    },
+    {
+     "text": "najmniej",
+     "startMs": 18715,
+     "endMs": 19180
+    },
+    {
+     "text": "siedem",
+     "startMs": 19238,
+     "endMs": 19574
+    },
+    {
+     "text": "dni.",
+     "startMs": 19644,
+     "endMs": 20074
+    },
+    {
+     "text": "A",
+     "startMs": 20387,
+     "endMs": 20468
+    },
+    {
+     "text": "sam",
+     "startMs": 20584,
+     "endMs": 20782
+    },
+    {
+     "text": "reaktor",
+     "startMs": 20851,
+     "endMs": 21339
+    },
+    {
+     "text": "stoi",
+     "startMs": 21374,
+     "endMs": 21629
+    },
+    {
+     "text": "głęboko",
+     "startMs": 21676,
+     "endMs": 22163
+    },
+    {
+     "text": "pod",
+     "startMs": 22210,
+     "endMs": 22361
+    },
+    {
+     "text": "ziemią.",
+     "startMs": 22384,
+     "endMs": 22883
+    }
+   ]
+  },
+  "why": {
+   "file": "audio/vo/why.mp3",
+   "durationMs": 10397,
+   "words": [
+    {
+     "text": "Taki",
+     "startMs": 35,
+     "endMs": 337
+    },
+    {
+     "text": "reaktor",
+     "startMs": 418,
+     "endMs": 836
+    },
+    {
+     "text": "daje",
+     "startMs": 906,
+     "endMs": 1149
+    },
+    {
+     "text": "prąd",
+     "startMs": 1207,
+     "endMs": 1509
+    },
+    {
+     "text": "całą",
+     "startMs": 1567,
+     "endMs": 1927
+    },
+    {
+     "text": "dobę,",
+     "startMs": 2009,
+     "endMs": 2485
+    },
+    {
+     "text": "bez",
+     "startMs": 2682,
+     "endMs": 2902
+    },
+    {
+     "text": "względu",
+     "startMs": 2984,
+     "endMs": 3402
+    },
+    {
+     "text": "na",
+     "startMs": 3448,
+     "endMs": 3518
+    },
+    {
+     "text": "pogodę,",
+     "startMs": 3576,
+     "endMs": 4110
+    },
+    {
+     "text": "i",
+     "startMs": 4342,
+     "endMs": 4423
+    },
+    {
+     "text": "nie",
+     "startMs": 4493,
+     "endMs": 4609
+    },
+    {
+     "text": "emituje",
+     "startMs": 4656,
+     "endMs": 5155
+    },
+    {
+     "text": "dwutlenku",
+     "startMs": 5178,
+     "endMs": 5700
+    },
+    {
+     "text": "węgla",
+     "startMs": 5759,
+     "endMs": 6072
+    },
+    {
+     "text": "podczas",
+     "startMs": 6118,
+     "endMs": 6397
+    },
+    {
+     "text": "pracy.",
+     "startMs": 6467,
+     "endMs": 6943
+    },
+    {
+     "text": "Może",
+     "startMs": 7430,
+     "endMs": 7709
+    },
+    {
+     "text": "też",
+     "startMs": 7755,
+     "endMs": 7930
+    },
+    {
+     "text": "zastąpić",
+     "startMs": 7964,
+     "endMs": 8475
+    },
+    {
+     "text": "stare",
+     "startMs": 8510,
+     "endMs": 8812
+    },
+    {
+     "text": "elektrownie",
+     "startMs": 8847,
+     "endMs": 9369
+    },
+    {
+     "text": "węglowe.",
+     "startMs": 9404,
+     "endMs": 10008
+    }
+   ]
+  },
+  "outro": {
+   "file": "audio/vo/outro.mp3",
+   "durationMs": 9796,
+   "words": [
+    {
+     "text": "Podsumujmy:",
+     "startMs": 35,
+     "endMs": 987
+    },
+    {
+     "text": "uran",
+     "startMs": 1405,
+     "endMs": 1695
+    },
+    {
+     "text": "daje",
+     "startMs": 1753,
+     "endMs": 1997
+    },
+    {
+     "text": "ciepło,",
+     "startMs": 2043,
+     "endMs": 2589
+    },
+    {
+     "text": "ciepło",
+     "startMs": 2635,
+     "endMs": 3007
+    },
+    {
+     "text": "zamienia",
+     "startMs": 3053,
+     "endMs": 3425
+    },
+    {
+     "text": "wodę",
+     "startMs": 3483,
+     "endMs": 3704
+    },
+    {
+     "text": "w",
+     "startMs": 3738,
+     "endMs": 3773
+    },
+    {
+     "text": "parę,",
+     "startMs": 3843,
+     "endMs": 4261
+    },
+    {
+     "text": "para",
+     "startMs": 4377,
+     "endMs": 4632
+    },
+    {
+     "text": "kręci",
+     "startMs": 4690,
+     "endMs": 5016
+    },
+    {
+     "text": "turbiną,",
+     "startMs": 5062,
+     "endMs": 5724
+    },
+    {
+     "text": "a",
+     "startMs": 5863,
+     "endMs": 5944
+    },
+    {
+     "text": "turbina",
+     "startMs": 6002,
+     "endMs": 6444
+    },
+    {
+     "text": "wytwarza",
+     "startMs": 6502,
+     "endMs": 6896
+    },
+    {
+     "text": "prąd.",
+     "startMs": 6954,
+     "endMs": 7396
+    },
+    {
+     "text": "Tak",
+     "startMs": 7755,
+     "endMs": 7988
+    },
+    {
+     "text": "działa",
+     "startMs": 8022,
+     "endMs": 8266
+    },
+    {
+     "text": "mały",
+     "startMs": 8313,
+     "endMs": 8522
+    },
+    {
+     "text": "reaktor",
+     "startMs": 8568,
+     "endMs": 8893
+    },
+    {
+     "text": "modułowy.",
+     "startMs": 8951,
+     "endMs": 9543
+    }
+   ]
+  }
+ }
+}

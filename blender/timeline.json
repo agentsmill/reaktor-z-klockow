@@ -1,0 +1,160 @@
+{
+ "fps": 30,
+ "total": 4437,
+ "scenes": {
+  "intro": {
+   "duration": 261,
+   "leadIn": 45,
+   "voEnd": 231,
+   "cues": {
+    "homes": 120,
+    "question": 168,
+    "build": 192
+   }
+  },
+  "smr": {
+   "duration": 321,
+   "leadIn": 12,
+   "voEnd": 300,
+   "cues": {
+    "small": 45,
+    "reactor": 54,
+    "modular": 68,
+    "compare": 95,
+    "big": 132,
+    "modules": 221,
+    "factory": 235,
+    "bricks": 282
+   }
+  },
+  "poland": {
+   "duration": 601,
+   "leadIn": 12,
+   "voEnd": 580,
+   "cues": {
+    "map": 18,
+    "solowow": 95,
+    "orlen": 187,
+    "tech": 232,
+    "power": 333,
+    "investors": 430,
+    "amount": 541
+   }
+  },
+  "fission": {
+   "duration": 603,
+   "leadIn": 12,
+   "voEnd": 582,
+   "cues": {
+    "pellet": 43,
+    "neutron": 92,
+    "hit": 107,
+    "split": 168,
+    "fission": 225,
+    "heat": 297,
+    "newNeutrons": 343,
+    "chain": 404,
+    "chainLabel": 461,
+    "onePellet": 492,
+    "coal": 557
+   }
+  },
+  "control": {
+   "duration": 325,
+   "leadIn": 12,
+   "voEnd": 304,
+   "cues": {
+    "excess": 13,
+    "absorb": 44,
+    "rods": 64,
+    "fromBelow": 106,
+    "exactlyOne": 204,
+    "stable": 284
+   }
+  },
+  "power": {
+   "duration": 520,
+   "leadIn": 12,
+   "voEnd": 499,
+   "cues": {
+    "boil": 28,
+    "name": 154,
+    "steam": 195,
+    "turbine": 220,
+    "generator": 280,
+    "electricity": 295,
+    "kettle": 339,
+    "condense": 423,
+    "return": 453
+   }
+  },
+  "circulation": {
+   "duration": 411,
+   "leadIn": 12,
+   "voEnd": 390,
+   "cues": {
+    "inside": 43,
+    "noPumps": 117,
+    "hot": 146,
+    "rise": 194,
+    "chimney": 230,
+    "sink": 289,
+    "radiator": 365
+   }
+  },
+  "safety": {
+   "duration": 720,
+   "leadIn": 12,
+   "voEnd": 699,
+   "cues": {
+    "blackout": 32,
+    "rodsIn": 90,
+    "off": 156,
+    "decay": 218,
+    "ic": 281,
+    "pools": 300,
+    "rise": 390,
+    "back": 469,
+    "noPower": 508,
+    "days": 589,
+    "underground": 684
+   }
+  },
+  "why": {
+   "duration": 334,
+   "leadIn": 12,
+   "voEnd": 313,
+   "cues": {
+    "allDay": 72,
+    "weather": 119,
+    "co2": 167,
+    "replace": 251
+   }
+  },
+  "outro": {
+   "duration": 449,
+   "leadIn": 12,
+   "voEnd": 299,
+   "cues": {
+    "uranium": 54,
+    "heat": 73,
+    "steam": 127,
+    "turbine": 164,
+    "electricity": 221,
+    "title": 245
+   }
+  },
+  "looktest": {
+   "duration": 10,
+   "leadIn": 0,
+   "voEnd": 0,
+   "cues": {}
+  },
+  "vesseltest": {
+   "duration": 120,
+   "leadIn": 0,
+   "voEnd": 0,
+   "cues": {}
+  }
+ }
+}

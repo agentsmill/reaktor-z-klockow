@@ -1,0 +1,41 @@
+{
+  "name": "smr-explainer",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Reaktor z klocków — edukacyjna animacja (PL): jak działa mały reaktor modułowy BWRX-300",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "assets:voice": "node --env-file=.env scripts/voiceover.ts",
+    "assets:music": "node --env-file=.env scripts/music.ts",
+    "assets:sfx": "node --env-file=.env scripts/sfx.ts",
+    "assets:images": "node --env-file=.env scripts/images.ts",
+    "render": "remotion render src/index.ts SMRExplainer out/smr-bwrx300.mp4 --codec=h264 --crf=18",
+    "postinstall": "node -e \"const f='src/generated/renders.json';require('fs').existsSync(f)||require('fs').writeFileSync(f,'{}')\""
+  },
+  "dependencies": {
+    "@fal-ai/client": "^1.10.1",
+    "@remotion/cli": "^4.0.532",
+    "@remotion/google-fonts": "^4.0.532",
+    "@remotion/media": "^4.0.532",
+    "@remotion/paths": "^4.0.532",
+    "@remotion/transitions": "^4.0.532",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "remotion": "^4.0.532",
+    "topojson-client": "^3.1.0",
+    "world-atlas": "^2.0.2"
+  },
+  "devDependencies": {
+    "@types/geojson": "^7946.0.16",
+    "@types/node": "^26.6.3",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@types/topojson-client": "^3.1.5",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^4.1.11"
+  }
+}

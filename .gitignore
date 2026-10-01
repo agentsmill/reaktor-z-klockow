@@ -1,0 +1,10 @@
+node_modules/
+out/
+.env
+.env.*
+.DS_Store
+# Blender output (≈900 MB) — regenerate with scripts/render-queue.sh
+public/renders/
+# generated from public/renders by scripts/collect-renders.ts (postinstall creates an empty one)
+src/generated/renders.json
+**/__pycache__/
